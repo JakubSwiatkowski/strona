@@ -180,3 +180,20 @@ li a:hover {
   font-family: cc;
   src: url(/z)
   }
+
+nav {
+    max-width: 87%;
+  }
+
+
+.glowne {
+    max-width: 87%;
+  }
+
+.artykul {
+    max-width: 87%;
+  }
+
+.div {
+   max-width: 87%;
+  }
